@@ -1,0 +1,15 @@
+{
+  "name": "projeto-site-livors-pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "site": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
